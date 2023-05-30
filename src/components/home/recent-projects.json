@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_home_recent_projects",
+  "info": {
+    "displayName": "Recent Projects"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

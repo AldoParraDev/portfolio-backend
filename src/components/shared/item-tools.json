@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_item_tools",
+  "info": {
+    "displayName": "Item Tools"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

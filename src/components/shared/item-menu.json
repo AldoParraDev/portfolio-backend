@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_item_menus",
+  "info": {
+    "displayName": "Item Menu"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

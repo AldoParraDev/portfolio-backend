@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_item_works",
+  "info": {
+    "displayName": "Item Work"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "richtext"
+    }
+  }
+}

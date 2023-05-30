@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "works",
+  "info": {
+    "singularName": "work",
+    "pluralName": "works",
+    "displayName": "Work",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "company": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "company_url": {
+      "type": "text"
+    },
+    "working_time": {
+      "type": "text"
+    },
+    "functions_list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.item-work"
+    }
+  }
+}

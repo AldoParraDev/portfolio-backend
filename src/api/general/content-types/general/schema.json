@@ -25,6 +25,28 @@
     },
     "email": {
       "type": "string"
+    },
+    "social_networks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.social-network"
+    },
+    "menu": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.item-menu"
+    },
+    "label_tools": {
+      "type": "string"
+    },
+    "btn_view_project": {
+      "type": "string"
+    },
+    "btn_contact": {
+      "type": "string"
+    },
+    "btn_send": {
+      "type": "string"
     }
   }
 }
